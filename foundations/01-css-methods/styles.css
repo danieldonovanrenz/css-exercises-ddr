@@ -1,0 +1,10 @@
+/* this is the style sheet for my html file */
+div {
+    color: white;
+    background-color: red;
+    font-family: Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+}
