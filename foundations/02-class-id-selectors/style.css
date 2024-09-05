@@ -1,0 +1,21 @@
+
+.odd {
+    background-color: rgb(249, 144, 161);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd.big {
+    font-size: 24px;
+}
+
+#two {
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
